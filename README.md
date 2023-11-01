@@ -1,4 +1,4 @@
-![logo](https://github.com/misbahiradat/misbahiradat/blob/main/Data%20analysis%20gig%20(5).png)
+![logo](https://github.com/misbahiradat/Forecasting-of-Currency-Price/blob/main/2FC55151-AB8F-434C-B62D-7D7933594569.JPEG)
 <h1 align="center">Hi 👋, I'm Misbah Iradat</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
